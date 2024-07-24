@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Classic White T-Shirt",
+        "description": "A timeless white t-shirt for everyday wear.",
+        "price": 19.99,
+        "size": "M"
+    },
+    {
+        "name": "Blue Denim Jeans",
+        "description": "Comfortable and stylish blue jeans.",
+        "price": 49.99,
+        "size": "L"
+    },
+    {
+        "name": "Red Polo Shirt",
+        "description": "Bright red polo shirt with a comfortable fit.",
+        "price": 29.99,
+        "size": "S"
+    },
+    {
+        "name": "Black Leather Jacket",
+        "description": "Sleek black leather jacket for a cool look.",
+        "price": 129.99,
+        "size": "XL"
+    },
+    {
+        "name": "Grey Sweatpants",
+        "description": "Soft and cozy grey sweatpants.",
+        "price": 39.99,
+        "size": "M"
+    },
+    {
+        "name": "Green Hoodie",
+        "description": "Warm green hoodie with a front pocket.",
+        "price": 59.99,
+        "size": "L"
+    },
+    {
+        "name": "Striped Long Sleeve Shirt",
+        "description": "Long sleeve shirt with black and white stripes.",
+        "price": 34.99,
+        "size": "S"
+    },
+    {
+        "name": "Yellow Summer Dress",
+        "description": "Bright yellow dress perfect for summer.",
+        "price": 69.99,
+        "size": "M"
+    },
+    {
+        "name": "Black Running Shorts",
+        "description": "Lightweight black shorts for running.",
+        "price": 24.99,
+        "size": "L"
+    },
+    {
+        "name": "Purple Workout Tank Top",
+        "description": "Breathable tank top for workouts.",
+        "price": 22.99,
+        "size": "S"
+    },
+    {
+        "name": "Brown Chinos",
+        "description": "Classic brown chinos for a smart casual look.",
+        "price": 44.99,
+        "size": "M"
+    },
+    {
+        "name": "White Dress Shirt",
+        "description": "Elegant white dress shirt for formal occasions.",
+        "price": 54.99,
+        "size": "L"
+    },
+    {
+        "name": "Blue Sports Jacket",
+        "description": "Blue jacket perfect for outdoor activities.",
+        "price": 89.99,
+        "size": "XL"
+    },
+    {
+        "name": "Pink Blouse",
+        "description": "Stylish pink blouse for a chic look.",
+        "price": 35.99,
+        "size": "S"
+    },
+    {
+        "name": "Black Leggings",
+        "description": "Comfortable black leggings for everyday wear.",
+        "price": 29.99,
+        "size": "M"
+    },
+    {
+        "name": "White Sneakers",
+        "description": "Classic white sneakers for a casual look.",
+        "price": 69.99,
+        "size": "L"
+    },
+    {
+        "name": "Orange Beanie",
+        "description": "Bright orange beanie to keep you warm.",
+        "price": 19.99,
+        "size": "S"
+    },
+    {
+        "name": "Blue Swim Trunks",
+        "description": "Blue swim trunks for a day at the beach.",
+        "price": 24.99,
+        "size": "M"
+    },
+    {
+        "name": "Red Flannel Shirt",
+        "description": "Cozy red flannel shirt for cooler days.",
+        "price": 39.99,
+        "size": "L"
+    },
+    {
+        "name": "Black Dress Pants",
+        "description": "Elegant black dress pants for formal events.",
+        "price": 59.99,
+        "size": "XL"
+    }
+]
